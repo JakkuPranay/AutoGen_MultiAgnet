@@ -1,6 +1,6 @@
 
 https://github.com/kodigitaccount
-
+https://github.com/kodigitaccount/MLOPS/blob/main/MLOPS%20SHEET.txt
 1- AUTOGEN Official Documentation -->
 https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/index.html
 
